@@ -1,6 +1,20 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=6994CDEE&text=&animation=twinkling&height=80)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=4000&pause=500&color=1B7CC5&width=435&lines=Hi+there%2C+I'm+Aung+Thu+Hein;Let's+explore+my+coding+journey!)](https://git.io/typing-svg)
 
+## Work Experience
+
+**Full Stack Developer**  @ *H.Q.M.A Digital*  
+*May 2024 – Dec 2024*  
+
+**Web Developer** @ *Meta Team Myanmar*  
+*Dec 2022 – March 2024*
+
+**OJT member** @ *BIB Training Center*  
+*Aug 2022 – Nov 2024*  
+
+**Self-employed High School Educator**  
+*Aug 2016 – Feb 2023*
+
 ### 🧮 Programming Languages
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
