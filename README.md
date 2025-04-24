@@ -1,6 +1,30 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=6994CDEE&text=&animation=twinkling&height=80)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=4000&pause=500&color=1B7CC5&width=435&lines=Hi+there%2C+I'm+Aung+Thu+Hein;Let's+explore+my+coding+journey!)](https://git.io/typing-svg)
 
+## Featured Repos & Projects
+
+### [QuizMaker](https://github.com/Aung-Thu-Hein/quizmaker-rest-api)
+A Laravel-inspired pure PHP quiz maker REST API which follow **Open API Specification**. In this repository you can learn following concepts:
+
+- Open API Specification, Swagger UI and api documentation
+- DI container, routing system, JWT, system configuration, database connection class, Request and Response handling
+- Service, DAO layer structure
+- Unit testing
+- CI/CD
+- Building docker container service
+- DDL with MySQL
+
+### [Tchaorot](https://tchaorot.com/)
+
+**Tchaorot** is a digital vehicle renting platform for those who want to grant their motorbike or car, and
+also for user who want to rent motorbike or car digitally. This system was developed using **Laravel,
+MySQL, Tailwind CSS, Laravel Livewire, Filament and Pusher**.
+
+### [React Atomic Design](https://github.com/Aung-Thu-Hein/atomic-design)
+**Atomic Design Structure** with React TypeScript, especially suitable for form components with high customization
+
+--
+
 ## Work Experience
 
 **Full Stack Developer**  @ *H.Q.M.A Digital*  
