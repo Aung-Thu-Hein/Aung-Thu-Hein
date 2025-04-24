@@ -1,6 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=6994CDEE&text=&animation=twinkling&height=80)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=4000&pause=500&color=1B7CC5&width=435&lines=Hi+there%2C+I'm+Aung+Thu+Hein;Let's+explore+my+coding+journey!)](https://git.io/typing-svg)
 
+<a href="https://www.linkedin.com/in/aungthuhein225k/"><img src="https://github.com/avinashkranjan/avinashkranjan/blob/master/logos/linkedin.png" width="40" /></a>
+<a href="https://x.com/AungThuHein1999"><img src="https://github.com/avinashkranjan/avinashkranjan/blob/master/logos/twitter.png" width="40" /></a>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Aung-Thu-Hein)
+
+
 ## Featured Repos & Projects
 
 ### [QuizMaker](https://github.com/Aung-Thu-Hein/quizmaker-rest-api)
